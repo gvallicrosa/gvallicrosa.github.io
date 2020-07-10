@@ -1,6 +1,13 @@
 # gvallicrosa.github.io
 
+Personal webpage.
+
 ## Testing locally
 
-    jekyll build
-    jekyll serve
+To test locally, just follow this instructions
+
+```bash
+gem install jekyll
+jekyll build
+jekyll serve
+```

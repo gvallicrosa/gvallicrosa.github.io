@@ -1,0 +1,25 @@
+ a {
+     text-decoration: none;
+     font-weight: bolder;
+     color: #0074D9;
+ }
+
+ h2, h3, h4 {
+     font-weight: normal;
+ }
+
+ h2 a {
+     font-weight: normal;
+ }
+
+ footer a {
+     font-weight: normal;
+ }
+
+ a:hover {
+     text-decoration: underline;
+ }
+
+ mark {
+     background-color: #DDDDDD;
+ }
